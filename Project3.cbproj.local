@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.510,=C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\Users\Админ\Documents\Embarcadero\Studio\Projects\diplom.dfm=C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\Users\Админ\Documents\Embarcadero\Studio\Projects\diplom.cpp=C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Diplom1.h=C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.439,=C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\Users\Админ\Documents\Embarcadero\Studio\Projects\diplom.h=C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.820,C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Project3.cbproj=C:\Users\Админ\Documents\Embarcadero\Studio\Projects\Project3.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
